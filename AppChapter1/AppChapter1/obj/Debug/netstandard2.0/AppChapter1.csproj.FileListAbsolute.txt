@@ -1,0 +1,13 @@
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\bin\Debug\netstandard2.0\AppChapter1.deps.json
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\bin\Debug\netstandard2.0\AppChapter1.dll
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\bin\Debug\netstandard2.0\AppChapter1.pdb
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\AppChapter1.csprojAssemblyReference.cache
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\ContentPageExample.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\AppChapter1.csproj.CoreCompileInputs.cache
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\AppChapter1.AssemblyInfoInputs.cache
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\AppChapter1.AssemblyInfo.cs
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\AppChapter1.dll
+C:\Users\cuongdolar\source\repos\AppChapter1\AppChapter1\AppChapter1\obj\Debug\netstandard2.0\AppChapter1.pdb
